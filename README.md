@@ -1,4 +1,4 @@
-# Understanding Customers through Behavior-Based Clustering
+# **Unlocking Customer Insight Trough Clustering**
 
 ## About
 This particular model has been designed with the primary purpose of assisting banking industries in effectively dividing their customer base into distinct segments. Its core functionality revolves around the ability to streamline and automate the process of identifying the most suitable products for individual customers, thereby eliminating the need for labor-intensive manual data grouping.

@@ -15,7 +15,7 @@ with open('model_pca.pkl', 'rb') as file_3:
 with open('model_kmeans.pkl', 'rb') as file_4:
   model_kmeans = pickle.load(file_4)
 
-st.title('Understanding Customers through Behavior-Based Clustering')
+st.title('Unlocking Customer Insight Trough Clustering')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 def run():
