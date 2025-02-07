@@ -12,4 +12,4 @@ Visit our model deployment app [here](https://huggingface.co/spaces/ardifarizky/
 
 ![Deployment](deploymentDEMO.gif)
 
-Project by [Ardifa Rizky Saputra](ardifarizky.my.id)
+Project by [Ardifa Rizky Saputra](https://www.linkedin.com/in/ardifarizky/)
